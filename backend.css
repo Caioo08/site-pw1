@@ -1,0 +1,71 @@
+body{
+    background-color: #00a8e1;
+  }
+  Header{
+      background-color: #00a8e1;
+      border-radius: 0px 0px 25px 25px;
+      padding: 1% 0% 2% 0%;
+  }
+  ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #00a8e1;
+    }
+    
+    li {
+      float: left;
+      
+    }
+    
+    li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 110%;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    
+    /* Change the link color to #111 (black) on hover */
+    li a:hover {
+      background-color: white;
+      color: #00a8e1;
+    }
+    h1{
+      text-align: center;
+      color: white;
+      size: 110%;
+    }
+    h2{
+      text-align: center;
+      color: white;
+      size: 105%;
+      font-style: oblique;
+    }
+    #sair input{
+        font-size: 120%;
+        background-color: red;
+        border: 0px;
+        border-radius: 25px;
+        color: #dddddd;
+      }
+      iframe{
+        margin: 1% 0% 0% 28%;
+    }
+    #texto {
+        background-color: white;
+        margin: 5% 5% 1% 5% ;
+        border-radius: 25px;
+    }
+    #texto h3{
+        font-size: 150% ;
+        text-align: center;
+    }
+    #texto h4{
+        font-size: 130%;
+        font-family: 'Times New Roman', Times, serif;
+        margin: 0% 0% 0% 1%;
+    }

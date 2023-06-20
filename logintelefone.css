@@ -1,0 +1,29 @@
+h1{
+    margin: 5% 0% 0% 44%;
+    color: green;
+}
+h2{
+    margin: 5% 20% 0% 37%;
+    color: green;
+}
+input{
+    padding: 1% 0% 0% 0%;
+    size: 5%;
+    margin: 2% 0% 0% 45%;
+    border-radius: 25px;
+    border: 5px;
+    border-color: green;
+    background-color: lightgray;
+    text-align: center;
+    color: black;
+    font-size: 110%;
+}
+#telefone input{
+    margin: 2% 0% 0% 48.3%;
+    color: white;
+    background-color: lightgreen;
+    border: lightgreen;
+    font-size: 120%;
+    border-radius: 25px ;
+    padding: 1% 1% 1% 1%;
+}

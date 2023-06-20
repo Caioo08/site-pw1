@@ -1,0 +1,47 @@
+body{
+    background-color: #dddddd;
+}
+h1{
+    margin: 5% 49%;
+    font-size: 150%;
+}
+h2{
+    font-size: 100%;
+    margin: 0% 0% 0% 46%;
+}
+
+#entrada input{
+    margin: 0% 0% 2% 46%;
+}
+#entrada input{
+    margin: 0% 0% 1% 46%;
+}
+#enviar input{
+    margin: 0% 0% 0% 52.2%;
+    color: white;
+    background-color: lightgreen;
+    border: lightgreen;
+    font-size: 110%;
+}
+#google input{
+    padding: 1% 7%;
+    margin: 0% 0% 0% 43%;
+    background: white;
+    color: red;
+    border-color: red;
+    border-radius: 25px;
+}
+h3{
+    margin: 1% 0% 0% 51%;
+}
+h4{
+    padding: 0% 0% 0% 49%;
+}
+#telefone input{
+    padding: 1% 6.8%;
+    margin: 1% 0% 0% 43%;
+    background: white;
+    color: green;
+    border-color: green;
+    border-radius: 25px;
+}
